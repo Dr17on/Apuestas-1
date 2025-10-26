@@ -1,4 +1,12 @@
-# 🤖 Bot de Apuestas Deportivas para Telegram
+bot-apuestas-deportivas/
+│
+├── main.py
+├── requirements.txt
+├── .replit
+├── replit.nix
+├── README.md
+├── config.json
+└── betting_data.json# 🤖 Bot de Apuestas Deportivas para Telegram
 
 Bot completo de apuestas deportivas con sistema de depósitos, retiros y panel de administración.
 
